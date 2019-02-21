@@ -1,0 +1,7 @@
+D:\Ardi Firdaus\Ringkasan Lengkap Dan tugas\Pemdas\CRUD pegawai\CRUD pegawai\CRUD pegawai\obj\x86\Debug\WindowsFormsApp2.Form1.resources
+D:\Ardi Firdaus\Ringkasan Lengkap Dan tugas\Pemdas\CRUD pegawai\CRUD pegawai\CRUD pegawai\obj\x86\Debug\CRUD_pegawai.Properties.Resources.resources
+D:\Ardi Firdaus\Ringkasan Lengkap Dan tugas\Pemdas\CRUD pegawai\CRUD pegawai\CRUD pegawai\obj\x86\Debug\CRUD pegawai.csproj.GenerateResource.Cache
+D:\Ardi Firdaus\Ringkasan Lengkap Dan tugas\Pemdas\CRUD pegawai\CRUD pegawai\CRUD pegawai\bin\Debug\CRUD pegawai.exe
+D:\Ardi Firdaus\Ringkasan Lengkap Dan tugas\Pemdas\CRUD pegawai\CRUD pegawai\CRUD pegawai\bin\Debug\CRUD pegawai.pdb
+D:\Ardi Firdaus\Ringkasan Lengkap Dan tugas\Pemdas\CRUD pegawai\CRUD pegawai\CRUD pegawai\obj\x86\Debug\CRUD pegawai.exe
+D:\Ardi Firdaus\Ringkasan Lengkap Dan tugas\Pemdas\CRUD pegawai\CRUD pegawai\CRUD pegawai\obj\x86\Debug\CRUD pegawai.pdb

@@ -1,0 +1,8 @@
+D:\Ardi Firdaus\Ringkasan Lengkap Dan tugas\Pemdas\CRUD pegawai\Crud 2\Crud 2\bin\Debug\Crud 2.exe
+D:\Ardi Firdaus\Ringkasan Lengkap Dan tugas\Pemdas\CRUD pegawai\Crud 2\Crud 2\bin\Debug\Crud 2.pdb
+D:\Ardi Firdaus\Ringkasan Lengkap Dan tugas\Pemdas\CRUD pegawai\Crud 2\Crud 2\obj\x86\Debug\Crud_2.Form1.resources
+D:\Ardi Firdaus\Ringkasan Lengkap Dan tugas\Pemdas\CRUD pegawai\Crud 2\Crud 2\obj\x86\Debug\Crud_2.Properties.Resources.resources
+D:\Ardi Firdaus\Ringkasan Lengkap Dan tugas\Pemdas\CRUD pegawai\Crud 2\Crud 2\obj\x86\Debug\Crud 2.csproj.GenerateResource.Cache
+D:\Ardi Firdaus\Ringkasan Lengkap Dan tugas\Pemdas\CRUD pegawai\Crud 2\Crud 2\obj\x86\Debug\Crud 2.exe
+D:\Ardi Firdaus\Ringkasan Lengkap Dan tugas\Pemdas\CRUD pegawai\Crud 2\Crud 2\obj\x86\Debug\Crud 2.pdb
+D:\Ardi Firdaus\Ringkasan Lengkap Dan tugas\Pemdas\CRUD pegawai\Crud 2\Crud 2\obj\x86\Debug\Crud 2.csprojResolveAssemblyReference.cache
